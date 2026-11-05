@@ -43,6 +43,7 @@ d={
    'age':20,
     'semester':'5th'
 }
+print(d['name'])
 d['name']='iram mughal'
 print(d,type(d))
 
