@@ -1,0 +1,26 @@
+{
+    "9779554486": {
+        "name": "arfa munam butt",
+        "cnic": "3430130965322",
+        "salt": "b58dc5f961166c2a468e564c22894450",
+        "password_hash": "a6e487cbf0cc7b9552efe16106142ed1095bb211c0e1bd14ec481c75ba3d0768",
+        "balance": 3000.0,
+        "credit_score": 652,
+        "transactions": [
+            {
+                "date": "12-11-2026 12:38:33 AM",
+                "type": "ACCOUNT CREATED",
+                "amount": 0,
+                "balance": 0.0,
+                "description": "New bank account opened"
+            },
+            {
+                "date": "12-11-2026 12:40:40 AM",
+                "type": "DEPOSIT",
+                "amount": 3000.0,
+                "balance": 3000.0,
+                "description": "Money deposited"
+            }
+        ]
+    }
+}
